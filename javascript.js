@@ -1,13 +1,6 @@
 'use strict';
 
 
-
-for (var i = 0; i < 5; ++i) {
-setTimeout(() => console.log(i), 0)
-}
-
-
-
 const btns = document.querySelectorAll('.icons');
 const container = document.querySelectorAll('.item');
 
